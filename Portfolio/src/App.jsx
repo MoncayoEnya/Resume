@@ -184,7 +184,7 @@ const projects = [
     tech: ["React","Firebase","Firestore","GroqAPI","Leaflet.js","Tailwind CSS"],
     github: "https://github.com/MoncayoEnya/eBarangay",
     bullets: [
-      "Web application handling barangay operations — residents records, document requests, incidents, health and finance with role-based authentication",
+      "Web application handling barangay operations residents records, document requests, incidents, health and finance with role-based authentication",
       "AI chatbot supporting Filipino, Cebuano, and English that answers questions using live data from the system",
       "Disease outbreak detector with an interactive GPS map and purok boundary editing",
     ],
@@ -278,7 +278,7 @@ export default function App() {
                   <a href="https://github.com/MoncayoEnya" target="_blank" rel="noreferrer">github.com/MoncayoEnya</a>
                 </span>
               </div>
-              <p className="summary">Computer Science student who enjoys building real-world applications. My work spans web and desktop projects using React, C#, and Firebase — covering barangay management, hospital systems, and classroom tools. Always looking to grow and contribute to meaningful software.</p>
+              <p className="summary">Computer Science student who enjoys building real-world applications. My work spans web and desktop projects using React, C#, and Firebase covering barangay management, hospital systems, and classroom tools. Always looking to grow and contribute to meaningful software.</p>
               <div className="btns">
                 <a href="#projects" className="btn btn-p">View Projects</a>
                 <a href="#contact" className="btn btn-o">Contact Me</a>
@@ -349,7 +349,7 @@ export default function App() {
               <h2>Contact</h2>
               <div className="cg">
                 <div>
-                  <p className="cb">I am currently looking for an OJT opportunity. If you have an opening or simply want to connect, feel free to reach out — I would love to hear from you.</p>
+                  <p className="cb">I am currently looking for an OJT opportunity. If you have an opening or simply want to connect, feel free to reach out. I would love to hear from you.</p>
                   <div className="clinks">
                     <a href="mailto:moncayoenya@gmail.com" className="cl">
                       <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>
